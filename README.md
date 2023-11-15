@@ -66,6 +66,7 @@ En el menú tendremos las siguientes:
 ##### Si seleccionamos la opción 4 se iniciara el menu de administrador.
 
 ###### Primero que nada tendremos que introducir usuario (carlos) y contraseña (1234) correctos.
+###### Si introducimos un usuario incorrecto el programa repetira la pregunta.
 
 =============================================================
 
