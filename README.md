@@ -1,9 +1,9 @@
-#Manual de uso Hotel Trivago
+Manual de uso Hotel Trivago
 
 
 =======================================================
 
-###Esta es la bienvenida a nuestro "Hotel Trivago"
+Esta es la bienvenida a nuestro "Hotel Trivago"
 
 ###### Este programa simula la recepción de un hotel de 10 habitaciones, donde nos sale las distintas opciones del menú principal:
 
